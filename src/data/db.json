@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Web Development is my passion.  I love to code and bring pages to life.",
+      "author": "Eduardo",
+      "id": 1
+    },
+    {
+      "title": "Web Development celebration",
+      "body": "Web Development is my passion.  I love to code and bring pages to life.",
+      "author": "Junior",
+      "id": 2
+    },
+    {
+      "title": "React Developer",
+      "body": "React Development with three.js. Loving ReactJS and NodeJS.",
+      "author": "Eduardo Mejia",
+      "id": 3
+    }
+  ]
+}
