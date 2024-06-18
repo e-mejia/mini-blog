@@ -1,6 +1,5 @@
 import Navbar from "./Navbar";
 import Home from "./Home";
-import NewBlog from "./NotFound";
 import CreateBlog from "./CreateBlog";
 import BlogDetails from "./BlogDetails";
 import NotFound from "./NotFound";
