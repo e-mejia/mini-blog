@@ -100,3 +100,13 @@
   border-radius: 8px;
   cursor: pointer;
 }
+.notfound h2,
+p {
+  margin-bottom: 12px;
+}
+.notfound span {
+  padding: 7px;
+  margin: 8px;
+  border-radius: 7px;
+  background: #f1356d;
+}
