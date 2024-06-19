@@ -59,9 +59,6 @@ const CreateBlog = () => {
         </select>
         {!isPending && <button>Add Blog</button>}
         {isPending && <button disabled>Add Blog...</button>}
-        <p>{title}</p>
-        <p>{blogBody}</p>
-        <p>{author}</p>
       </form>
     </div>
   );
